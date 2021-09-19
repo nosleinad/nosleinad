@@ -1,12 +1,12 @@
 ## Olá! 👋
 ### Seja bem vindo ao meu GitHub.
 
-##### 👨‍🎓 Sou recém-formado em Sistemas de Informação, procurando oportunidades e colaboração em projetos de aprendizado profundo.
+#### 👨‍🎓 Sou recém-formado em Sistemas de Informação, procurando oportunidades e colaboração em projetos de aprendizado profundo.
 
-##### 🔭 Tenho experiência em desenvolvimento back-end e front-end em grandes empresas do mercado de tecnologia. Sólidos conhecimentos em criação de páginas web e projetos nas linguagens PHP e, conhecimento em HTML, CSS, Java Script. Realizando integração com outras tecnologias, agilidade nos processos e integridade. Utilização de algumas tecnologias e linguagens como Java, MySQL, Shell Script, Ansible, Docker, Kubernetes, GitHub.
-##### ❤ A minha paixão por tecnologias me tornou Bacharel em Sistemas de Informação.
+#### 🔭 Tenho experiência em desenvolvimento back-end e front-end em grandes empresas do mercado de tecnologia. Sólidos conhecimentos em criação de páginas web e projetos nas linguagens PHP e, conhecimento em HTML, CSS, Java Script. Realizando integração com outras tecnologias, agilidade nos processos e integridade. Utilização de algumas tecnologias e linguagens como Java, MySQL, Shell Script, Ansible, Docker, Kubernetes, GitHub.
+#### ❤ A minha paixão por tecnologias me tornou Bacharel em Sistemas de Informação.
 
-##### 🤝 Estou procurando colaborar mas, em projetos de desenvolvimento com aprendizado profundo.
+#### 🤝 Estou procurando colaborar mas, em projetos de desenvolvimento com aprendizado profundo.
 <div>
   <a href="https://github.com/nosleinad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nosleinad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,10 +30,7 @@
   <a href = "mailto:nosleinadjk@hotmail.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "mailto:nosleinadjk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielsonmaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-    
+          
   </div>
     
 
