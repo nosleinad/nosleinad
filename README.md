@@ -31,7 +31,7 @@
   
   
   
-  #### 😍 Apaixonado por tecnologia, educação e por mudar a vida das pesssoas através da programação.
+  #### 😍 Apaixonado por tecnologia, e por mudar a vida das pesssoas através da programação.
   
   
   
